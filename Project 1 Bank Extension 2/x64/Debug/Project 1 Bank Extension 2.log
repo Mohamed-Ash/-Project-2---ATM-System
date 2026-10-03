@@ -1,0 +1,15 @@
+﻿  Project 1 Bank Extension 2.cpp
+D:\mohamed\course-8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(72,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\mohamed\course-8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(285,13): warning C4129: 'A': unrecognized character escape sequence
+D:\mohamed\course-8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(558,13): warning C4129: 'A': unrecognized character escape sequence
+D:\mohamed\course-8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(805,13): warning C4129: 'F': unrecognized character escape sequence
+D:\mohamed\course-8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(964,13): warning C4129: 'D': unrecognized character escape sequence
+D:\mohamed\course-8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(1278,13): warning C4129: 'M': unrecognized character escape sequence
+D:\mohamed\course-8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(438,1): warning C4715: 'UserExistByUsername': not all control paths return a value
+D:\mohamed\course-8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(683,1): warning C4715: 'DeleteUserByUsernameAndPassword': not all control paths return a value
+D:\mohamed\course-8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(712,1): warning C4715: 'UpdateUserByUserName': not all control paths return a value
+D:\mohamed\course-8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(888,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+D:\mohamed\course-8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(921,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+D:\mohamed\course-8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(954,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+D:\mohamed\course-8\Project 1 Bank Extension 2\Project 1 Bank Extension 2\Project 1 Bank Extension 2.cpp(1265,1): warning C4715: 'ShowTransactionScreen': not all control paths return a value
+  Project 1 Bank Extension 2.vcxproj -> D:\mohamed\course-8\Project 1 Bank Extension 2\x64\Debug\Project 1 Bank Extension 2.exe
